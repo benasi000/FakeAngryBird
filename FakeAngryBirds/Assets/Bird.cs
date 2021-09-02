@@ -9,4 +9,10 @@ public class Bird : MonoBehaviour
     {
         GetComponent<SpriteRenderer>().color = Color.red;
     }
+
+    //when mouse moves of the object(the green bird) it restores it color
+    private void OnMouseUp()
+    {
+        GetComponent<SpriteRenderer>().color = Color.white;
+    }
 }
