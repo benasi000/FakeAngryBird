@@ -1977,3 +1977,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 990.368835 seconds.
+  path: Assets/cloud-1.png
+  artifactKey: Guid(fd997a9edfe464c2a926d5873fca0d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cloud-1.png using Guid(fd997a9edfe464c2a926d5873fca0d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c91518ff9380f7b5922068793cb20737') in 0.191385 seconds 
+  Import took 0.211303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.348984 seconds.
+  path: Assets/Cloud.mat
+  artifactKey: Guid(7d7555f0a599c48ffbe5cfb30ca7ddbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cloud.mat using Guid(7d7555f0a599c48ffbe5cfb30ca7ddbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a865e05a78091742d1eb51df614b1ae') in 0.094449 seconds 
+  Import took 0.100275 seconds .
+
