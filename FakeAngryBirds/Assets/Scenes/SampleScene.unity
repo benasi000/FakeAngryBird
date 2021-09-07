@@ -1462,6 +1462,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30dbbcd259f664d6f806c7a622ea2493, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _cloudParticlePrefab: {fileID: 4530412386243599154, guid: d3194971575a448e88ab5f4e62a8caf1, type: 3}
 --- !u!1 &1657358046
 GameObject:
   m_ObjectHideFlags: 0
@@ -1747,6 +1748,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30dbbcd259f664d6f806c7a622ea2493, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _cloudParticlePrefab: {fileID: 4530412386243599154, guid: d3194971575a448e88ab5f4e62a8caf1, type: 3}
 --- !u!1 &1705764958
 GameObject:
   m_ObjectHideFlags: 0
